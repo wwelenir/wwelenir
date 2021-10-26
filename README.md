@@ -1,7 +1,7 @@
 # Hi There, I'm Walter Welenir 👋
 
 - 🔭 I’m currently working as Full Stack Developer at OBDI Motors do Brasil
-- 🌱 I'm learning about React Native, Flutter, NodeJS and .NET Core
+- 🌱 I'm learning about React Native, Flutter, NodeJS and .NET
 - 💬 Ask me about `[Git, React, React Native, Javascript, PHP, .NET, SQL]` 
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I have some tattoos and want to do more
