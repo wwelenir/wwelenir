@@ -1,6 +1,6 @@
 # Hi There, I'm Walter Welenir 👋
 
-- 🔭 I’m currently working as Mobile Developer at Climatempo and Technology Consultant at OBDI Motors do Brasil
+- 🔭 I’m currently working as Mobile Developer at Climatempo
 - 🌱 I'm learning about React Native, Flutter, NodeJS and .NET
 - 💬 Ask me about `[Git, React, React Native, Javascript, PHP, .NET, SQL]` 
 - 😄 Pronouns: Him/His
